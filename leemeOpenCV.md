@@ -19,7 +19,7 @@ https://bhavikjikadara.medium.com/image-processing-using-opencv-a-step-by-step-g
 ![Bordes](Teto_bordes.jpg)
 
 ## Contornos
-![Contornos]()
+![Contornos](Teto_contornos.jpg)
 
 ## Desenfocada
 ![Desenfocada](Teto_desenfocada.jpg)
